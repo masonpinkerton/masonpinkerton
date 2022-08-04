@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @masonpinkerton
+- 👀 I’m interested in game/app/web dev, AI, hacking, and video games
+- 🌱 I’m currently learning many coding languages, but specifically Python
